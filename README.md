@@ -1,2 +1,5 @@
-# hello-world
-simplerepository
+#include<stdio.h>
+int main()
+{
+printf("hello");
+}
